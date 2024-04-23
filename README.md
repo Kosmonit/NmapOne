@@ -1,3 +1,10 @@
+# Extract Assembly
+
+``` bash
+zip -FF NmapOne.zip --out NmapOneOut.zip
+unzip NmapOneOut.zip
+```
+
 # Prepare & Install
 
 ```
